@@ -1,0 +1,6 @@
+apache-airflow==2.9.0
+apache-airflow-providers-http==4.10.0
+apache-airflow-providers-common-sql==1.14.0
+apache-airflow-providers-postgres==5.10.0
+httpx==0.27.0
+pytest==8.2.0
